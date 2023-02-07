@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    margin: 50px auto;
+    border: 2px darkgray solid;
+}
+
+#myCanvas2{
+    display: none;
+}
